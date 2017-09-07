@@ -44,7 +44,6 @@
             this.label8 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.comboBox3 = new System.Windows.Forms.ComboBox();
             this.comboBox2 = new System.Windows.Forms.ComboBox();
@@ -266,7 +265,7 @@
             this.tabControl1.Controls.Add(this.tabPage7);
             this.tabControl1.Controls.Add(this.tabPage8);
             this.tabControl1.Controls.Add(this.tabPage9);
-            this.tabControl1.Font = new System.Drawing.Font("微软雅黑", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.tabControl1.Font = new System.Drawing.Font("Microsoft YaHei", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.tabControl1.Location = new System.Drawing.Point(18, 60);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
@@ -292,7 +291,6 @@
             this.tabPage1.Controls.Add(this.label8);
             this.tabPage1.Controls.Add(this.label6);
             this.tabPage1.Controls.Add(this.label5);
-            this.tabPage1.Controls.Add(this.label2);
             this.tabPage1.Controls.Add(this.comboBox1);
             this.tabPage1.Controls.Add(this.comboBox3);
             this.tabPage1.Controls.Add(this.comboBox2);
@@ -312,16 +310,16 @@
             // 
             // textBox2
             // 
-            this.textBox2.Font = new System.Drawing.Font("微软雅黑", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.textBox2.Font = new System.Drawing.Font("Microsoft YaHei", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.textBox2.ForeColor = System.Drawing.Color.Red;
-            this.textBox2.Location = new System.Drawing.Point(119, 352);
+            this.textBox2.Location = new System.Drawing.Point(177, 352);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(946, 71);
+            this.textBox2.Size = new System.Drawing.Size(445, 36);
             this.textBox2.TabIndex = 8;
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(1132, 392);
+            this.button2.Location = new System.Drawing.Point(446, 409);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(170, 34);
             this.button2.TabIndex = 7;
@@ -331,7 +329,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(1132, 352);
+            this.button1.Location = new System.Drawing.Point(177, 409);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(170, 34);
             this.button1.TabIndex = 6;
@@ -343,7 +341,7 @@
             // 
             this.label81.AutoSize = true;
             this.label81.ForeColor = System.Drawing.Color.Blue;
-            this.label81.Location = new System.Drawing.Point(921, 461);
+            this.label81.Location = new System.Drawing.Point(557, 461);
             this.label81.Name = "label81";
             this.label81.Size = new System.Drawing.Size(65, 27);
             this.label81.TabIndex = 2;
@@ -353,7 +351,7 @@
             // 
             this.label80.AutoSize = true;
             this.label80.ForeColor = System.Drawing.Color.Blue;
-            this.label80.Location = new System.Drawing.Point(667, 461);
+            this.label80.Location = new System.Drawing.Point(388, 461);
             this.label80.Name = "label80";
             this.label80.Size = new System.Drawing.Size(65, 27);
             this.label80.TabIndex = 2;
@@ -363,7 +361,7 @@
             // 
             this.label79.AutoSize = true;
             this.label79.ForeColor = System.Drawing.Color.Blue;
-            this.label79.Location = new System.Drawing.Point(404, 461);
+            this.label79.Location = new System.Drawing.Point(216, 461);
             this.label79.Name = "label79";
             this.label79.Size = new System.Drawing.Size(66, 27);
             this.label79.TabIndex = 2;
@@ -373,7 +371,7 @@
             // 
             this.label84.AutoSize = true;
             this.label84.ForeColor = System.Drawing.Color.Blue;
-            this.label84.Location = new System.Drawing.Point(667, 522);
+            this.label84.Location = new System.Drawing.Point(388, 522);
             this.label84.Name = "label84";
             this.label84.Size = new System.Drawing.Size(52, 27);
             this.label84.TabIndex = 2;
@@ -383,7 +381,7 @@
             // 
             this.label83.AutoSize = true;
             this.label83.ForeColor = System.Drawing.Color.Blue;
-            this.label83.Location = new System.Drawing.Point(404, 522);
+            this.label83.Location = new System.Drawing.Point(216, 522);
             this.label83.Name = "label83";
             this.label83.Size = new System.Drawing.Size(52, 27);
             this.label83.TabIndex = 2;
@@ -393,7 +391,7 @@
             // 
             this.label82.AutoSize = true;
             this.label82.ForeColor = System.Drawing.Color.Blue;
-            this.label82.Location = new System.Drawing.Point(151, 522);
+            this.label82.Location = new System.Drawing.Point(43, 522);
             this.label82.Name = "label82";
             this.label82.Size = new System.Drawing.Size(52, 27);
             this.label82.TabIndex = 2;
@@ -403,7 +401,7 @@
             // 
             this.label78.AutoSize = true;
             this.label78.ForeColor = System.Drawing.Color.Blue;
-            this.label78.Location = new System.Drawing.Point(151, 461);
+            this.label78.Location = new System.Drawing.Point(43, 461);
             this.label78.Name = "label78";
             this.label78.Size = new System.Drawing.Size(52, 27);
             this.label78.TabIndex = 2;
@@ -412,7 +410,7 @@
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(37, 461);
+            this.label9.Location = new System.Drawing.Point(37, 416);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(92, 27);
             this.label9.TabIndex = 2;
@@ -421,7 +419,7 @@
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(37, 307);
+            this.label8.Location = new System.Drawing.Point(43, 352);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(92, 27);
             this.label8.TabIndex = 2;
@@ -430,71 +428,65 @@
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(37, 212);
+            this.label6.Location = new System.Drawing.Point(43, 253);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(192, 27);
+            this.label6.Size = new System.Drawing.Size(52, 27);
             this.label6.TabIndex = 2;
-            this.label6.Text = "第三步，厚度和尺寸";
+            this.label6.Text = "厚度";
             // 
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(37, 117);
+            this.label5.Location = new System.Drawing.Point(43, 192);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(172, 27);
+            this.label5.Size = new System.Drawing.Size(112, 27);
             this.label5.TabIndex = 2;
-            this.label5.Text = "第二步，输入牌号";
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(37, 29);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(172, 27);
-            this.label2.TabIndex = 2;
-            this.label2.Text = "第一步，选择子类";
+            this.label5.Text = "原材料牌号";
             // 
             // comboBox1
             // 
+            this.comboBox1.Font = new System.Drawing.Font("Microsoft YaHei", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(1026, 74);
+            this.comboBox1.Location = new System.Drawing.Point(177, 118);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(272, 35);
+            this.comboBox1.Size = new System.Drawing.Size(258, 29);
             this.comboBox1.TabIndex = 2;
             this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged_1);
             // 
             // comboBox3
             // 
+            this.comboBox3.Font = new System.Drawing.Font("Microsoft YaHei", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.comboBox3.FormattingEnabled = true;
-            this.comboBox3.Location = new System.Drawing.Point(635, 74);
+            this.comboBox3.Location = new System.Drawing.Point(177, 74);
             this.comboBox3.Name = "comboBox3";
-            this.comboBox3.Size = new System.Drawing.Size(272, 35);
+            this.comboBox3.Size = new System.Drawing.Size(258, 29);
             this.comboBox3.TabIndex = 1;
             this.comboBox3.SelectedIndexChanged += new System.EventHandler(this.comboBox3_SelectedIndexChanged);
             // 
             // comboBox2
             // 
+            this.comboBox2.Font = new System.Drawing.Font("Microsoft YaHei", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.comboBox2.FormattingEnabled = true;
-            this.comboBox2.Location = new System.Drawing.Point(216, 74);
+            this.comboBox2.Location = new System.Drawing.Point(177, 27);
             this.comboBox2.Name = "comboBox2";
-            this.comboBox2.Size = new System.Drawing.Size(272, 35);
+            this.comboBox2.Size = new System.Drawing.Size(258, 29);
             this.comboBox2.TabIndex = 0;
             this.comboBox2.SelectedIndexChanged += new System.EventHandler(this.comboBox2_SelectedIndexChanged);
             // 
             // label10
             // 
             this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(838, 256);
+            this.label10.Location = new System.Drawing.Point(43, 305);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(72, 27);
+            this.label10.Size = new System.Drawing.Size(52, 27);
             this.label10.TabIndex = 0;
-            this.label10.Text = "尺寸：";
+            this.label10.Text = "尺寸";
             this.label10.Click += new System.EventHandler(this.label1_Click);
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(934, 74);
+            this.label1.Location = new System.Drawing.Point(43, 118);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(85, 27);
             this.label1.TabIndex = 2;
@@ -504,7 +496,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(544, 74);
+            this.label4.Location = new System.Drawing.Point(43, 74);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(85, 27);
             this.label4.TabIndex = 0;
@@ -514,7 +506,7 @@
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(477, 256);
+            this.label7.Location = new System.Drawing.Point(441, 248);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(50, 27);
             this.label7.TabIndex = 0;
@@ -524,7 +516,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(114, 74);
+            this.label3.Location = new System.Drawing.Point(43, 27);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(86, 27);
             this.label3.TabIndex = 0;
@@ -564,7 +556,7 @@
             // 
             this.groupBox6.Controls.Add(this.radioButton13);
             this.groupBox6.Controls.Add(this.radioButton14);
-            this.groupBox6.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.groupBox6.Font = new System.Drawing.Font("Microsoft YaHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.groupBox6.Location = new System.Drawing.Point(1082, 202);
             this.groupBox6.Name = "groupBox6";
             this.groupBox6.Size = new System.Drawing.Size(202, 62);
@@ -574,7 +566,7 @@
             // radioButton13
             // 
             this.radioButton13.AutoSize = true;
-            this.radioButton13.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.radioButton13.Font = new System.Drawing.Font("Microsoft YaHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.radioButton13.Location = new System.Drawing.Point(113, 25);
             this.radioButton13.Name = "radioButton13";
             this.radioButton13.Size = new System.Drawing.Size(83, 24);
@@ -586,7 +578,7 @@
             // radioButton14
             // 
             this.radioButton14.AutoSize = true;
-            this.radioButton14.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.radioButton14.Font = new System.Drawing.Font("Microsoft YaHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.radioButton14.Location = new System.Drawing.Point(6, 25);
             this.radioButton14.Name = "radioButton14";
             this.radioButton14.Size = new System.Drawing.Size(75, 24);
@@ -599,7 +591,7 @@
             // 
             this.groupBox3.Controls.Add(this.radioButton5);
             this.groupBox3.Controls.Add(this.radioButton7);
-            this.groupBox3.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.groupBox3.Font = new System.Drawing.Font("Microsoft YaHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.groupBox3.Location = new System.Drawing.Point(1081, 135);
             this.groupBox3.Name = "groupBox3";
             this.groupBox3.Size = new System.Drawing.Size(202, 62);
@@ -609,7 +601,7 @@
             // radioButton5
             // 
             this.radioButton5.AutoSize = true;
-            this.radioButton5.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.radioButton5.Font = new System.Drawing.Font("Microsoft YaHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.radioButton5.Location = new System.Drawing.Point(113, 25);
             this.radioButton5.Name = "radioButton5";
             this.radioButton5.Size = new System.Drawing.Size(83, 24);
@@ -621,7 +613,7 @@
             // radioButton7
             // 
             this.radioButton7.AutoSize = true;
-            this.radioButton7.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.radioButton7.Font = new System.Drawing.Font("Microsoft YaHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.radioButton7.Location = new System.Drawing.Point(6, 25);
             this.radioButton7.Name = "radioButton7";
             this.radioButton7.Size = new System.Drawing.Size(70, 24);
@@ -634,7 +626,7 @@
             // 
             this.groupBox5.Controls.Add(this.radioButton11);
             this.groupBox5.Controls.Add(this.radioButton12);
-            this.groupBox5.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.groupBox5.Font = new System.Drawing.Font("Microsoft YaHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.groupBox5.Location = new System.Drawing.Point(691, 202);
             this.groupBox5.Name = "groupBox5";
             this.groupBox5.Size = new System.Drawing.Size(202, 62);
@@ -644,7 +636,7 @@
             // radioButton11
             // 
             this.radioButton11.AutoSize = true;
-            this.radioButton11.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.radioButton11.Font = new System.Drawing.Font("Microsoft YaHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.radioButton11.Location = new System.Drawing.Point(113, 25);
             this.radioButton11.Name = "radioButton11";
             this.radioButton11.Size = new System.Drawing.Size(83, 24);
@@ -656,7 +648,7 @@
             // radioButton12
             // 
             this.radioButton12.AutoSize = true;
-            this.radioButton12.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.radioButton12.Font = new System.Drawing.Font("Microsoft YaHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.radioButton12.Location = new System.Drawing.Point(6, 25);
             this.radioButton12.Name = "radioButton12";
             this.radioButton12.Size = new System.Drawing.Size(72, 24);
@@ -670,7 +662,7 @@
             this.groupBox4.Controls.Add(this.radioButton8);
             this.groupBox4.Controls.Add(this.radioButton9);
             this.groupBox4.Controls.Add(this.radioButton10);
-            this.groupBox4.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.groupBox4.Font = new System.Drawing.Font("Microsoft YaHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.groupBox4.Location = new System.Drawing.Point(105, 202);
             this.groupBox4.Name = "groupBox4";
             this.groupBox4.Size = new System.Drawing.Size(474, 62);
@@ -680,7 +672,7 @@
             // radioButton8
             // 
             this.radioButton8.AutoSize = true;
-            this.radioButton8.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.radioButton8.Font = new System.Drawing.Font("Microsoft YaHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.radioButton8.Location = new System.Drawing.Point(318, 25);
             this.radioButton8.Name = "radioButton8";
             this.radioButton8.Size = new System.Drawing.Size(97, 24);
@@ -692,7 +684,7 @@
             // radioButton9
             // 
             this.radioButton9.AutoSize = true;
-            this.radioButton9.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.radioButton9.Font = new System.Drawing.Font("Microsoft YaHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.radioButton9.Location = new System.Drawing.Point(168, 25);
             this.radioButton9.Name = "radioButton9";
             this.radioButton9.Size = new System.Drawing.Size(72, 24);
@@ -704,7 +696,7 @@
             // radioButton10
             // 
             this.radioButton10.AutoSize = true;
-            this.radioButton10.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.radioButton10.Font = new System.Drawing.Font("Microsoft YaHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.radioButton10.Location = new System.Drawing.Point(6, 25);
             this.radioButton10.Name = "radioButton10";
             this.radioButton10.Size = new System.Drawing.Size(70, 24);
@@ -717,7 +709,7 @@
             // 
             this.groupBox2.Controls.Add(this.radioButton4);
             this.groupBox2.Controls.Add(this.radioButton6);
-            this.groupBox2.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.groupBox2.Font = new System.Drawing.Font("Microsoft YaHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.groupBox2.Location = new System.Drawing.Point(690, 135);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(202, 62);
@@ -727,7 +719,7 @@
             // radioButton4
             // 
             this.radioButton4.AutoSize = true;
-            this.radioButton4.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.radioButton4.Font = new System.Drawing.Font("Microsoft YaHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.radioButton4.Location = new System.Drawing.Point(113, 25);
             this.radioButton4.Name = "radioButton4";
             this.radioButton4.Size = new System.Drawing.Size(69, 24);
@@ -739,7 +731,7 @@
             // radioButton6
             // 
             this.radioButton6.AutoSize = true;
-            this.radioButton6.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.radioButton6.Font = new System.Drawing.Font("Microsoft YaHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.radioButton6.Location = new System.Drawing.Point(6, 25);
             this.radioButton6.Name = "radioButton6";
             this.radioButton6.Size = new System.Drawing.Size(70, 24);
@@ -753,7 +745,7 @@
             this.groupBox1.Controls.Add(this.radioButton3);
             this.groupBox1.Controls.Add(this.radioButton2);
             this.groupBox1.Controls.Add(this.radioButton1);
-            this.groupBox1.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.groupBox1.Font = new System.Drawing.Font("Microsoft YaHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.groupBox1.Location = new System.Drawing.Point(104, 135);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(474, 62);
@@ -763,7 +755,7 @@
             // radioButton3
             // 
             this.radioButton3.AutoSize = true;
-            this.radioButton3.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.radioButton3.Font = new System.Drawing.Font("Microsoft YaHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.radioButton3.Location = new System.Drawing.Point(318, 25);
             this.radioButton3.Name = "radioButton3";
             this.radioButton3.Size = new System.Drawing.Size(97, 24);
@@ -775,7 +767,7 @@
             // radioButton2
             // 
             this.radioButton2.AutoSize = true;
-            this.radioButton2.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.radioButton2.Font = new System.Drawing.Font("Microsoft YaHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.radioButton2.Location = new System.Drawing.Point(168, 25);
             this.radioButton2.Name = "radioButton2";
             this.radioButton2.Size = new System.Drawing.Size(72, 24);
@@ -787,7 +779,7 @@
             // radioButton1
             // 
             this.radioButton1.AutoSize = true;
-            this.radioButton1.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.radioButton1.Font = new System.Drawing.Font("Microsoft YaHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.radioButton1.Location = new System.Drawing.Point(6, 25);
             this.radioButton1.Name = "radioButton1";
             this.radioButton1.Size = new System.Drawing.Size(67, 24);
@@ -1197,7 +1189,7 @@
             // label38
             // 
             this.label38.AutoSize = true;
-            this.label38.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label38.Font = new System.Drawing.Font("Microsoft YaHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.label38.Location = new System.Drawing.Point(735, 178);
             this.label38.Name = "label38";
             this.label38.Size = new System.Drawing.Size(569, 20);
@@ -1591,7 +1583,7 @@
             // 
             this.groupBox7.Controls.Add(this.radioButton15);
             this.groupBox7.Controls.Add(this.radioButton16);
-            this.groupBox7.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.groupBox7.Font = new System.Drawing.Font("Microsoft YaHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.groupBox7.Location = new System.Drawing.Point(1081, 224);
             this.groupBox7.Name = "groupBox7";
             this.groupBox7.Size = new System.Drawing.Size(202, 62);
@@ -1601,7 +1593,7 @@
             // radioButton15
             // 
             this.radioButton15.AutoSize = true;
-            this.radioButton15.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.radioButton15.Font = new System.Drawing.Font("Microsoft YaHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.radioButton15.Location = new System.Drawing.Point(113, 25);
             this.radioButton15.Name = "radioButton15";
             this.radioButton15.Size = new System.Drawing.Size(83, 24);
@@ -1613,7 +1605,7 @@
             // radioButton16
             // 
             this.radioButton16.AutoSize = true;
-            this.radioButton16.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.radioButton16.Font = new System.Drawing.Font("Microsoft YaHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.radioButton16.Location = new System.Drawing.Point(6, 25);
             this.radioButton16.Name = "radioButton16";
             this.radioButton16.Size = new System.Drawing.Size(75, 24);
@@ -1626,7 +1618,7 @@
             // 
             this.groupBox8.Controls.Add(this.radioButton17);
             this.groupBox8.Controls.Add(this.radioButton18);
-            this.groupBox8.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.groupBox8.Font = new System.Drawing.Font("Microsoft YaHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.groupBox8.Location = new System.Drawing.Point(1080, 157);
             this.groupBox8.Name = "groupBox8";
             this.groupBox8.Size = new System.Drawing.Size(202, 62);
@@ -1636,7 +1628,7 @@
             // radioButton17
             // 
             this.radioButton17.AutoSize = true;
-            this.radioButton17.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.radioButton17.Font = new System.Drawing.Font("Microsoft YaHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.radioButton17.Location = new System.Drawing.Point(113, 25);
             this.radioButton17.Name = "radioButton17";
             this.radioButton17.Size = new System.Drawing.Size(83, 24);
@@ -1648,7 +1640,7 @@
             // radioButton18
             // 
             this.radioButton18.AutoSize = true;
-            this.radioButton18.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.radioButton18.Font = new System.Drawing.Font("Microsoft YaHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.radioButton18.Location = new System.Drawing.Point(6, 25);
             this.radioButton18.Name = "radioButton18";
             this.radioButton18.Size = new System.Drawing.Size(70, 24);
@@ -1661,7 +1653,7 @@
             // 
             this.groupBox9.Controls.Add(this.radioButton19);
             this.groupBox9.Controls.Add(this.radioButton20);
-            this.groupBox9.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.groupBox9.Font = new System.Drawing.Font("Microsoft YaHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.groupBox9.Location = new System.Drawing.Point(690, 224);
             this.groupBox9.Name = "groupBox9";
             this.groupBox9.Size = new System.Drawing.Size(202, 62);
@@ -1671,7 +1663,7 @@
             // radioButton19
             // 
             this.radioButton19.AutoSize = true;
-            this.radioButton19.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.radioButton19.Font = new System.Drawing.Font("Microsoft YaHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.radioButton19.Location = new System.Drawing.Point(113, 25);
             this.radioButton19.Name = "radioButton19";
             this.radioButton19.Size = new System.Drawing.Size(83, 24);
@@ -1683,7 +1675,7 @@
             // radioButton20
             // 
             this.radioButton20.AutoSize = true;
-            this.radioButton20.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.radioButton20.Font = new System.Drawing.Font("Microsoft YaHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.radioButton20.Location = new System.Drawing.Point(6, 25);
             this.radioButton20.Name = "radioButton20";
             this.radioButton20.Size = new System.Drawing.Size(72, 24);
@@ -1697,7 +1689,7 @@
             this.groupBox10.Controls.Add(this.radioButton21);
             this.groupBox10.Controls.Add(this.radioButton22);
             this.groupBox10.Controls.Add(this.radioButton23);
-            this.groupBox10.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.groupBox10.Font = new System.Drawing.Font("Microsoft YaHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.groupBox10.Location = new System.Drawing.Point(104, 224);
             this.groupBox10.Name = "groupBox10";
             this.groupBox10.Size = new System.Drawing.Size(474, 62);
@@ -1707,7 +1699,7 @@
             // radioButton21
             // 
             this.radioButton21.AutoSize = true;
-            this.radioButton21.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.radioButton21.Font = new System.Drawing.Font("Microsoft YaHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.radioButton21.Location = new System.Drawing.Point(318, 25);
             this.radioButton21.Name = "radioButton21";
             this.radioButton21.Size = new System.Drawing.Size(97, 24);
@@ -1719,7 +1711,7 @@
             // radioButton22
             // 
             this.radioButton22.AutoSize = true;
-            this.radioButton22.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.radioButton22.Font = new System.Drawing.Font("Microsoft YaHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.radioButton22.Location = new System.Drawing.Point(168, 25);
             this.radioButton22.Name = "radioButton22";
             this.radioButton22.Size = new System.Drawing.Size(72, 24);
@@ -1731,7 +1723,7 @@
             // radioButton23
             // 
             this.radioButton23.AutoSize = true;
-            this.radioButton23.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.radioButton23.Font = new System.Drawing.Font("Microsoft YaHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.radioButton23.Location = new System.Drawing.Point(6, 25);
             this.radioButton23.Name = "radioButton23";
             this.radioButton23.Size = new System.Drawing.Size(70, 24);
@@ -1744,7 +1736,7 @@
             // 
             this.groupBox11.Controls.Add(this.radioButton24);
             this.groupBox11.Controls.Add(this.radioButton25);
-            this.groupBox11.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.groupBox11.Font = new System.Drawing.Font("Microsoft YaHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.groupBox11.Location = new System.Drawing.Point(689, 157);
             this.groupBox11.Name = "groupBox11";
             this.groupBox11.Size = new System.Drawing.Size(202, 62);
@@ -1754,7 +1746,7 @@
             // radioButton24
             // 
             this.radioButton24.AutoSize = true;
-            this.radioButton24.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.radioButton24.Font = new System.Drawing.Font("Microsoft YaHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.radioButton24.Location = new System.Drawing.Point(113, 25);
             this.radioButton24.Name = "radioButton24";
             this.radioButton24.Size = new System.Drawing.Size(69, 24);
@@ -1766,7 +1758,7 @@
             // radioButton25
             // 
             this.radioButton25.AutoSize = true;
-            this.radioButton25.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.radioButton25.Font = new System.Drawing.Font("Microsoft YaHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.radioButton25.Location = new System.Drawing.Point(6, 25);
             this.radioButton25.Name = "radioButton25";
             this.radioButton25.Size = new System.Drawing.Size(70, 24);
@@ -1780,7 +1772,7 @@
             this.groupBox12.Controls.Add(this.radioButton26);
             this.groupBox12.Controls.Add(this.radioButton27);
             this.groupBox12.Controls.Add(this.radioButton28);
-            this.groupBox12.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.groupBox12.Font = new System.Drawing.Font("Microsoft YaHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.groupBox12.Location = new System.Drawing.Point(103, 157);
             this.groupBox12.Name = "groupBox12";
             this.groupBox12.Size = new System.Drawing.Size(474, 62);
@@ -1790,7 +1782,7 @@
             // radioButton26
             // 
             this.radioButton26.AutoSize = true;
-            this.radioButton26.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.radioButton26.Font = new System.Drawing.Font("Microsoft YaHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.radioButton26.Location = new System.Drawing.Point(318, 25);
             this.radioButton26.Name = "radioButton26";
             this.radioButton26.Size = new System.Drawing.Size(97, 24);
@@ -1802,7 +1794,7 @@
             // radioButton27
             // 
             this.radioButton27.AutoSize = true;
-            this.radioButton27.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.radioButton27.Font = new System.Drawing.Font("Microsoft YaHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.radioButton27.Location = new System.Drawing.Point(168, 25);
             this.radioButton27.Name = "radioButton27";
             this.radioButton27.Size = new System.Drawing.Size(72, 24);
@@ -1814,7 +1806,7 @@
             // radioButton28
             // 
             this.radioButton28.AutoSize = true;
-            this.radioButton28.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.radioButton28.Font = new System.Drawing.Font("Microsoft YaHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.radioButton28.Location = new System.Drawing.Point(6, 25);
             this.radioButton28.Name = "radioButton28";
             this.radioButton28.Size = new System.Drawing.Size(67, 24);
@@ -2101,7 +2093,7 @@
             // label85
             // 
             this.label85.AutoSize = true;
-            this.label85.Font = new System.Drawing.Font("微软雅黑", 26.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label85.Font = new System.Drawing.Font("Microsoft YaHei", 26.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.label85.Location = new System.Drawing.Point(477, 9);
             this.label85.Name = "label85";
             this.label85.Size = new System.Drawing.Size(405, 46);
@@ -2111,10 +2103,11 @@
             // 
             // watermarkTextBox1
             // 
+            this.watermarkTextBox1.Font = new System.Drawing.Font("Microsoft YaHei", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.watermarkTextBox1.ForeColor = System.Drawing.Color.Empty;
-            this.watermarkTextBox1.Location = new System.Drawing.Point(939, 253);
+            this.watermarkTextBox1.Location = new System.Drawing.Point(177, 298);
             this.watermarkTextBox1.Name = "watermarkTextBox1";
-            this.watermarkTextBox1.Size = new System.Drawing.Size(350, 34);
+            this.watermarkTextBox1.Size = new System.Drawing.Size(258, 29);
             this.watermarkTextBox1.TabIndex = 5;
             this.watermarkTextBox1.Watermark = "格式如：001(1250*1080)";
             this.watermarkTextBox1.WatermarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
@@ -2122,10 +2115,11 @@
             // 
             // watermarkTextBox3
             // 
+            this.watermarkTextBox3.Font = new System.Drawing.Font("Microsoft YaHei", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.watermarkTextBox3.ForeColor = System.Drawing.Color.Empty;
-            this.watermarkTextBox3.Location = new System.Drawing.Point(119, 256);
+            this.watermarkTextBox3.Location = new System.Drawing.Point(177, 246);
             this.watermarkTextBox3.Name = "watermarkTextBox3";
-            this.watermarkTextBox3.Size = new System.Drawing.Size(352, 34);
+            this.watermarkTextBox3.Size = new System.Drawing.Size(258, 29);
             this.watermarkTextBox3.TabIndex = 4;
             this.watermarkTextBox3.Watermark = "注：不足三位的请加0，如050";
             this.watermarkTextBox3.WatermarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
@@ -2133,10 +2127,11 @@
             // 
             // watermarkTextBox2
             // 
+            this.watermarkTextBox2.Font = new System.Drawing.Font("Microsoft YaHei", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.watermarkTextBox2.ForeColor = System.Drawing.Color.Empty;
-            this.watermarkTextBox2.Location = new System.Drawing.Point(114, 161);
+            this.watermarkTextBox2.Location = new System.Drawing.Point(177, 185);
             this.watermarkTextBox2.Name = "watermarkTextBox2";
-            this.watermarkTextBox2.Size = new System.Drawing.Size(574, 34);
+            this.watermarkTextBox2.Size = new System.Drawing.Size(445, 29);
             this.watermarkTextBox2.TabIndex = 3;
             this.watermarkTextBox2.Watermark = "例：GB1220，不足六位的数字前加0，如GB669改为GB0669";
             this.watermarkTextBox2.WatermarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
@@ -2144,7 +2139,7 @@
             // 
             // watermarkTextBox5
             // 
-            this.watermarkTextBox5.Font = new System.Drawing.Font("微软雅黑", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.watermarkTextBox5.Font = new System.Drawing.Font("Microsoft YaHei", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.watermarkTextBox5.ForeColor = System.Drawing.Color.Empty;
             this.watermarkTextBox5.Location = new System.Drawing.Point(99, 410);
             this.watermarkTextBox5.Name = "watermarkTextBox5";
@@ -2165,7 +2160,7 @@
             // 
             // watermarkTextBox6
             // 
-            this.watermarkTextBox6.Font = new System.Drawing.Font("微软雅黑", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.watermarkTextBox6.Font = new System.Drawing.Font("Microsoft YaHei", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.watermarkTextBox6.ForeColor = System.Drawing.Color.Empty;
             this.watermarkTextBox6.Location = new System.Drawing.Point(99, 432);
             this.watermarkTextBox6.Name = "watermarkTextBox6";
@@ -2196,7 +2191,7 @@
             // 
             // watermarkTextBox10
             // 
-            this.watermarkTextBox10.Font = new System.Drawing.Font("微软雅黑", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.watermarkTextBox10.Font = new System.Drawing.Font("Microsoft YaHei", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.watermarkTextBox10.ForeColor = System.Drawing.Color.Empty;
             this.watermarkTextBox10.Location = new System.Drawing.Point(99, 432);
             this.watermarkTextBox10.Name = "watermarkTextBox10";
@@ -2227,7 +2222,7 @@
             // 
             // watermarkTextBox13
             // 
-            this.watermarkTextBox13.Font = new System.Drawing.Font("微软雅黑", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.watermarkTextBox13.Font = new System.Drawing.Font("Microsoft YaHei", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.watermarkTextBox13.ForeColor = System.Drawing.Color.Empty;
             this.watermarkTextBox13.Location = new System.Drawing.Point(102, 365);
             this.watermarkTextBox13.Name = "watermarkTextBox13";
@@ -2278,7 +2273,7 @@
             // 
             // watermarkTextBox18
             // 
-            this.watermarkTextBox18.Font = new System.Drawing.Font("微软雅黑", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.watermarkTextBox18.Font = new System.Drawing.Font("Microsoft YaHei", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.watermarkTextBox18.ForeColor = System.Drawing.Color.Empty;
             this.watermarkTextBox18.Location = new System.Drawing.Point(99, 432);
             this.watermarkTextBox18.Name = "watermarkTextBox18";
@@ -2291,7 +2286,7 @@
             // 
             this.watermarkTextBox19.Enabled = false;
             this.watermarkTextBox19.ForeColor = System.Drawing.Color.Empty;
-            this.watermarkTextBox19.Location = new System.Drawing.Point(201, 213);
+            this.watermarkTextBox19.Location = new System.Drawing.Point(104, 211);
             this.watermarkTextBox19.Name = "watermarkTextBox19";
             this.watermarkTextBox19.Size = new System.Drawing.Size(381, 34);
             this.watermarkTextBox19.TabIndex = 50;
@@ -2310,7 +2305,7 @@
             // 
             // watermarkTextBox21
             // 
-            this.watermarkTextBox21.Font = new System.Drawing.Font("微软雅黑", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.watermarkTextBox21.Font = new System.Drawing.Font("Microsoft YaHei", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.watermarkTextBox21.ForeColor = System.Drawing.Color.Empty;
             this.watermarkTextBox21.Location = new System.Drawing.Point(98, 432);
             this.watermarkTextBox21.Name = "watermarkTextBox21";
@@ -2341,7 +2336,7 @@
             // 
             // watermarkTextBox27
             // 
-            this.watermarkTextBox27.Font = new System.Drawing.Font("微软雅黑", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.watermarkTextBox27.Font = new System.Drawing.Font("Microsoft YaHei", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.watermarkTextBox27.ForeColor = System.Drawing.Color.Empty;
             this.watermarkTextBox27.Location = new System.Drawing.Point(120, 430);
             this.watermarkTextBox27.Name = "watermarkTextBox27";
@@ -2382,7 +2377,7 @@
             // 
             // watermarkTextBox28
             // 
-            this.watermarkTextBox28.Font = new System.Drawing.Font("微软雅黑", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.watermarkTextBox28.Font = new System.Drawing.Font("Microsoft YaHei", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.watermarkTextBox28.ForeColor = System.Drawing.Color.Empty;
             this.watermarkTextBox28.Location = new System.Drawing.Point(99, 432);
             this.watermarkTextBox28.Name = "watermarkTextBox28";
@@ -2485,7 +2480,6 @@
         private System.Windows.Forms.TabPage tabPage9;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Label label2;
         private System.Windows.Forms.ComboBox comboBox3;
         private System.Windows.Forms.ComboBox comboBox2;
         private System.Windows.Forms.Label label6;
