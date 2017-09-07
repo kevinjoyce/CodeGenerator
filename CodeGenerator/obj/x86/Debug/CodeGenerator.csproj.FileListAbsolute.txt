@@ -1,0 +1,29 @@
+C:\Users\jwf\AppData\Local\Temporary Projects\CodeGenerator\bin\Debug\CodeGenerator.exe
+C:\Users\jwf\AppData\Local\Temporary Projects\CodeGenerator\bin\Debug\CodeGenerator.pdb
+C:\Users\jwf\AppData\Local\Temporary Projects\CodeGenerator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jwf\AppData\Local\Temporary Projects\CodeGenerator\obj\x86\Debug\CodeGenerator.Form1.resources
+C:\Users\jwf\AppData\Local\Temporary Projects\CodeGenerator\obj\x86\Debug\CodeGenerator.Properties.Resources.resources
+C:\Users\jwf\AppData\Local\Temporary Projects\CodeGenerator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jwf\AppData\Local\Temporary Projects\CodeGenerator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jwf\AppData\Local\Temporary Projects\CodeGenerator\obj\x86\Debug\CodeGenerator.exe
+C:\Users\jwf\AppData\Local\Temporary Projects\CodeGenerator\obj\x86\Debug\CodeGenerator.pdb
+C:\Users\jwf\Documents\Visual Studio 2010\Projects\CodeGenerator\CodeGenerator\obj\x86\Debug\CodeGenerator.exe
+C:\Users\jwf\Documents\Visual Studio 2010\Projects\CodeGenerator\CodeGenerator\obj\x86\Debug\CodeGenerator.pdb
+C:\Users\jwf\Documents\Visual Studio 2010\Projects\CodeGenerator\CodeGenerator\bin\Debug\CodeGenerator.exe
+C:\Users\jwf\Documents\Visual Studio 2010\Projects\CodeGenerator\CodeGenerator\bin\Debug\CodeGenerator.pdb
+C:\Users\jwf\Documents\Visual Studio 2010\Projects\CodeGenerator\CodeGenerator\bin\Debug\System.Data.SQLite.dll
+C:\Users\jwf\Documents\Visual Studio 2010\Projects\CodeGenerator\CodeGenerator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jwf\Documents\Visual Studio 2010\Projects\CodeGenerator\CodeGenerator\obj\x86\Debug\CodeGenerator.Form1.resources
+C:\Users\jwf\Documents\Visual Studio 2010\Projects\CodeGenerator\CodeGenerator\obj\x86\Debug\CodeGenerator.Properties.Resources.resources
+C:\Users\jwf\Documents\Visual Studio 2010\Projects\CodeGenerator\CodeGenerator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jwf\Documents\Visual Studio 2010\Projects\CodeGenerator\CodeGenerator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\CodeGenerator\CodeGenerator\obj\x86\Debug\CodeGenerator.exe
+C:\CodeGenerator\CodeGenerator\obj\x86\Debug\CodeGenerator.pdb
+C:\CodeGenerator\CodeGenerator\bin\Debug\CodeGenerator.exe
+C:\CodeGenerator\CodeGenerator\bin\Debug\CodeGenerator.pdb
+C:\CodeGenerator\CodeGenerator\bin\Debug\System.Data.SQLite.dll
+C:\CodeGenerator\CodeGenerator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CodeGenerator\CodeGenerator\obj\x86\Debug\CodeGenerator.Form1.resources
+C:\CodeGenerator\CodeGenerator\obj\x86\Debug\CodeGenerator.Properties.Resources.resources
+C:\CodeGenerator\CodeGenerator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\CodeGenerator\CodeGenerator\obj\x86\Debug\GenerateResource.write.1.tlog

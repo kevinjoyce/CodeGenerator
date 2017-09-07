@@ -1,0 +1,10 @@
+C:\CodeGenerator\CodeGenerator\bin\Release\CodeGenerator.exe
+C:\CodeGenerator\CodeGenerator\bin\Release\CodeGenerator.pdb
+C:\CodeGenerator\CodeGenerator\bin\Release\System.Data.SQLite.dll
+C:\CodeGenerator\CodeGenerator\obj\x86\Release\ResolveAssemblyReference.cache
+C:\CodeGenerator\CodeGenerator\obj\x86\Release\CodeGenerator.Form1.resources
+C:\CodeGenerator\CodeGenerator\obj\x86\Release\CodeGenerator.Properties.Resources.resources
+C:\CodeGenerator\CodeGenerator\obj\x86\Release\GenerateResource.read.1.tlog
+C:\CodeGenerator\CodeGenerator\obj\x86\Release\GenerateResource.write.1.tlog
+C:\CodeGenerator\CodeGenerator\obj\x86\Release\CodeGenerator.exe
+C:\CodeGenerator\CodeGenerator\obj\x86\Release\CodeGenerator.pdb
