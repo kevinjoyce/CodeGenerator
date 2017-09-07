@@ -319,7 +319,7 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(446, 409);
+            this.button2.Location = new System.Drawing.Point(434, 409);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(170, 34);
             this.button2.TabIndex = 7;
@@ -547,7 +547,7 @@
             this.tabPage2.Location = new System.Drawing.Point(4, 36);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(1305, 590);
+            this.tabPage2.Size = new System.Drawing.Size(1311, 590);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "自制标准件";
             this.tabPage2.UseVisualStyleBackColor = true;
@@ -907,7 +907,7 @@
             this.tabPage3.Controls.Add(this.watermarkTextBox8);
             this.tabPage3.Location = new System.Drawing.Point(4, 36);
             this.tabPage3.Name = "tabPage3";
-            this.tabPage3.Size = new System.Drawing.Size(1305, 590);
+            this.tabPage3.Size = new System.Drawing.Size(1311, 590);
             this.tabPage3.TabIndex = 2;
             this.tabPage3.Text = "电器元件";
             this.tabPage3.UseVisualStyleBackColor = true;
@@ -1068,7 +1068,7 @@
             this.tabPage4.Controls.Add(this.watermarkTextBox12);
             this.tabPage4.Location = new System.Drawing.Point(4, 36);
             this.tabPage4.Name = "tabPage4";
-            this.tabPage4.Size = new System.Drawing.Size(1305, 590);
+            this.tabPage4.Size = new System.Drawing.Size(1311, 590);
             this.tabPage4.TabIndex = 3;
             this.tabPage4.Text = "电缆";
             this.tabPage4.UseVisualStyleBackColor = true;
@@ -1252,7 +1252,7 @@
             this.tabPage5.Controls.Add(this.watermarkTextBox16);
             this.tabPage5.Location = new System.Drawing.Point(4, 36);
             this.tabPage5.Name = "tabPage5";
-            this.tabPage5.Size = new System.Drawing.Size(1305, 590);
+            this.tabPage5.Size = new System.Drawing.Size(1311, 590);
             this.tabPage5.TabIndex = 4;
             this.tabPage5.Text = "五金标准件";
             this.tabPage5.UseVisualStyleBackColor = true;
@@ -1451,7 +1451,7 @@
             this.tabPage6.Controls.Add(this.watermarkTextBox20);
             this.tabPage6.Location = new System.Drawing.Point(4, 36);
             this.tabPage6.Name = "tabPage6";
-            this.tabPage6.Size = new System.Drawing.Size(1305, 590);
+            this.tabPage6.Size = new System.Drawing.Size(1311, 590);
             this.tabPage6.TabIndex = 5;
             this.tabPage6.Text = "配线器材";
             this.tabPage6.UseVisualStyleBackColor = true;
@@ -1574,7 +1574,7 @@
             this.tabPage7.Controls.Add(this.watermarkTextBox22);
             this.tabPage7.Location = new System.Drawing.Point(4, 36);
             this.tabPage7.Name = "tabPage7";
-            this.tabPage7.Size = new System.Drawing.Size(1305, 590);
+            this.tabPage7.Size = new System.Drawing.Size(1311, 590);
             this.tabPage7.TabIndex = 6;
             this.tabPage7.Text = "合同零部件/组件";
             this.tabPage7.UseVisualStyleBackColor = true;
@@ -1902,7 +1902,7 @@
             this.tabPage8.Controls.Add(this.watermarkTextBox24);
             this.tabPage8.Location = new System.Drawing.Point(4, 36);
             this.tabPage8.Name = "tabPage8";
-            this.tabPage8.Size = new System.Drawing.Size(1305, 590);
+            this.tabPage8.Size = new System.Drawing.Size(1311, 590);
             this.tabPage8.TabIndex = 7;
             this.tabPage8.Text = "备用";
             this.tabPage8.UseVisualStyleBackColor = true;
@@ -1988,7 +1988,7 @@
             this.tabPage9.Controls.Add(this.watermarkTextBox30);
             this.tabPage9.Location = new System.Drawing.Point(4, 36);
             this.tabPage9.Name = "tabPage9";
-            this.tabPage9.Size = new System.Drawing.Size(1305, 590);
+            this.tabPage9.Size = new System.Drawing.Size(1311, 590);
             this.tabPage9.TabIndex = 8;
             this.tabPage9.Text = "成品";
             this.tabPage9.UseVisualStyleBackColor = true;
