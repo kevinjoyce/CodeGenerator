@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.textBox2 = new System.Windows.Forms.TextBox();
@@ -190,6 +191,7 @@
             this.label76 = new System.Windows.Forms.Label();
             this.label77 = new System.Windows.Forms.Label();
             this.label85 = new System.Windows.Forms.Label();
+            this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
             this.watermarkTextBox1 = new CodeGenerator.WatermarkTextBox();
             this.watermarkTextBox3 = new CodeGenerator.WatermarkTextBox();
             this.watermarkTextBox2 = new CodeGenerator.WatermarkTextBox();
@@ -535,7 +537,7 @@
             this.tabPage2.Location = new System.Drawing.Point(4, 30);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(816, 517);
+            this.tabPage2.Size = new System.Drawing.Size(816, 469);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "自制标准件";
             this.tabPage2.UseVisualStyleBackColor = true;
@@ -886,7 +888,7 @@
             this.tabPage3.Controls.Add(this.watermarkTextBox8);
             this.tabPage3.Location = new System.Drawing.Point(4, 30);
             this.tabPage3.Name = "tabPage3";
-            this.tabPage3.Size = new System.Drawing.Size(816, 517);
+            this.tabPage3.Size = new System.Drawing.Size(816, 469);
             this.tabPage3.TabIndex = 2;
             this.tabPage3.Text = "电器元件";
             this.tabPage3.UseVisualStyleBackColor = true;
@@ -1030,7 +1032,7 @@
             this.tabPage4.Controls.Add(this.watermarkTextBox12);
             this.tabPage4.Location = new System.Drawing.Point(4, 30);
             this.tabPage4.Name = "tabPage4";
-            this.tabPage4.Size = new System.Drawing.Size(816, 517);
+            this.tabPage4.Size = new System.Drawing.Size(816, 469);
             this.tabPage4.TabIndex = 3;
             this.tabPage4.Text = "电缆";
             this.tabPage4.UseVisualStyleBackColor = true;
@@ -1115,6 +1117,7 @@
             this.comboBox10.Name = "comboBox10";
             this.comboBox10.Size = new System.Drawing.Size(381, 29);
             this.comboBox10.TabIndex = 45;
+            this.toolTip1.SetToolTip(this.comboBox10, "注：通讯线缆时为进口接口位置。 一次线/二次线 黑0；红1；黄2；绿3；蓝4；棕5；黄绿6");
             // 
             // label33
             // 
@@ -1197,7 +1200,7 @@
             this.tabPage5.Controls.Add(this.watermarkTextBox16);
             this.tabPage5.Location = new System.Drawing.Point(4, 30);
             this.tabPage5.Name = "tabPage5";
-            this.tabPage5.Size = new System.Drawing.Size(816, 517);
+            this.tabPage5.Size = new System.Drawing.Size(816, 469);
             this.tabPage5.TabIndex = 4;
             this.tabPage5.Text = "五金标准件";
             this.tabPage5.UseVisualStyleBackColor = true;
@@ -1372,7 +1375,7 @@
             this.tabPage6.Controls.Add(this.watermarkTextBox20);
             this.tabPage6.Location = new System.Drawing.Point(4, 30);
             this.tabPage6.Name = "tabPage6";
-            this.tabPage6.Size = new System.Drawing.Size(816, 517);
+            this.tabPage6.Size = new System.Drawing.Size(816, 469);
             this.tabPage6.TabIndex = 5;
             this.tabPage6.Text = "配线器材";
             this.tabPage6.UseVisualStyleBackColor = true;
@@ -1487,7 +1490,7 @@
             this.tabPage7.Controls.Add(this.watermarkTextBox22);
             this.tabPage7.Location = new System.Drawing.Point(4, 30);
             this.tabPage7.Name = "tabPage7";
-            this.tabPage7.Size = new System.Drawing.Size(816, 517);
+            this.tabPage7.Size = new System.Drawing.Size(816, 469);
             this.tabPage7.TabIndex = 6;
             this.tabPage7.Text = "合同零部件/组件";
             this.tabPage7.UseVisualStyleBackColor = true;
@@ -1806,7 +1809,7 @@
             this.tabPage8.Controls.Add(this.watermarkTextBox24);
             this.tabPage8.Location = new System.Drawing.Point(4, 30);
             this.tabPage8.Name = "tabPage8";
-            this.tabPage8.Size = new System.Drawing.Size(816, 517);
+            this.tabPage8.Size = new System.Drawing.Size(816, 469);
             this.tabPage8.TabIndex = 7;
             this.tabPage8.Text = "备用";
             this.tabPage8.UseVisualStyleBackColor = true;
@@ -1891,7 +1894,7 @@
             this.tabPage9.Controls.Add(this.watermarkTextBox30);
             this.tabPage9.Location = new System.Drawing.Point(4, 30);
             this.tabPage9.Name = "tabPage9";
-            this.tabPage9.Size = new System.Drawing.Size(816, 517);
+            this.tabPage9.Size = new System.Drawing.Size(816, 469);
             this.tabPage9.TabIndex = 8;
             this.tabPage9.Text = "成品";
             this.tabPage9.UseVisualStyleBackColor = true;
@@ -1996,6 +1999,10 @@
             this.label85.TabIndex = 1;
             this.label85.Text = "物料编码生成与查询系统";
             this.label85.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            // 
+            // toolTip1
+            // 
+            this.toolTip1.ToolTipIcon = System.Windows.Forms.ToolTipIcon.Info;
             // 
             // watermarkTextBox1
             // 
@@ -2218,7 +2225,6 @@
             this.watermarkTextBox21.Name = "watermarkTextBox21";
             this.watermarkTextBox21.Size = new System.Drawing.Size(648, 36);
             this.watermarkTextBox21.TabIndex = 37;
-            this.watermarkTextBox21.Text = "大类-子类-规格-流水号";
             this.watermarkTextBox21.Watermark = "大类-子类-规格-流水号";
             this.watermarkTextBox21.WatermarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
             // 
@@ -2274,7 +2280,6 @@
             this.watermarkTextBox25.Name = "watermarkTextBox25";
             this.watermarkTextBox25.Size = new System.Drawing.Size(416, 29);
             this.watermarkTextBox25.TabIndex = 41;
-            this.watermarkTextBox25.Text = "注：请输入6位的规格/牌号/工艺";
             this.watermarkTextBox25.Watermark = "注：请输入6位的规格/牌号/工艺";
             this.watermarkTextBox25.WatermarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
             // 
@@ -2576,6 +2581,7 @@
         private WatermarkTextBox watermarkTextBox3;
         private WatermarkTextBox watermarkTextBox1;
         private System.Windows.Forms.Label label85;
+        private System.Windows.Forms.ToolTip toolTip1;
     }
 }
 
